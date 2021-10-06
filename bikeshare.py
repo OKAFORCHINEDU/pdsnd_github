@@ -24,7 +24,7 @@ def check_input(input_string,input_type):
     input_string: is the input of the user
     input_type: is the type of input: 1 = city, 2 = month, 3 = day
     """
-    #getting user input for city, month and for the day of the week
+    # used to get user input for city, month and for the day of the week
     while True:
         x =input(input_string).lower()
         try:
