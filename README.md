@@ -1,5 +1,11 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
+
+
+### Project Author
+This project was completed BY OKAFOR CHINEDU
+
+
 ### Date created
 The Bikeshare project was created on 16/09/2021
 
@@ -31,7 +37,7 @@ Upon receiving the user input, it goes ahead and asks the user if they want to v
     Total trip duration
     Average trip duration
 
-    
+
     Types of users by number
     Types of users by gender (if available)
     The oldest user (if available)
