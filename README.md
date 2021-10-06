@@ -1,4 +1,7 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+### Project Author
+Author: OKAFOR CHINEDU
+Academy: Udacity Programming for Data Science with python
 
 
 
@@ -49,6 +52,40 @@ Upon receiving the user input, it goes ahead and asks the user if they want to v
 Finally, the user is prompted with the choice of restarting the program or not.
 
 
+### Running the Program
+Running the program:
+      I used the setup process on udacity learning classroom to set up my git bash which helped me a lot when running and debugging my bikeshare.py script.  I use Anaconda's command prompt on a windows 8.1 to activate conda on my machine..
+Program Details:
+      The program takes user input for the city (e.g. Chicago), month for which the user wants to view data (e.g. January; also includes an 'all' option), and day for which the user wants to view data (e.g. Monday; also includes an 'all' option).
+
+      Upon receiving the user input, it goes ahead and asks the user if they want to view the raw data (10 rows of data initially) or not. Following the input received, the program prints the following details:
+
+      Most popular month
+      Most popular day
+
+
+      Most popular hour
+      Most popular start station
+      Most popular end station
+
+
+      Most popular combination of start and end stations
+      Total trip duration
+      Average trip duration
+
+      Types of users by number
+      Types of users by gender (if available)
+      The oldest user (if available)
+      The youngest user (if available)
+      The most common birth year amongst users
+
+      (if available)
+
+Finally, the user is prompted with the choice of restarting the program or not.
+
+### Project Requirements
+Language: Python 3.6 or above
+Libraries: pandas, numpy, time, calendar
 ### Files used
 Requirements:
 
